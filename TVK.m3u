@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ompwrfiqhy564vh41sc35/Screenshot_2026-04-14-20-28-06-69_abd4b8102704aa17f228c3b49e5ca217.jpg?rlkey=efe7eolh223yl5sjb6au2g16o",TVK Movie
-https://www.dropbox.com/scl/fi/vktkwao9sdgi0usuqd135/TVK.mp4?rlkey=g571r54iaxqr49y0k0tqkxuj5&raw=1
+#EXTINF:-1 tvg-name="TVK" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tpinyu6nrgi2et6enesg3/tvk.jpg?rlkey=794zl1v2cyxtk8cavh9bugkmt" group-title="Movies",TVK
+https://dl.dropboxusercontent.com/scl/fi/vktkwao9sdgi0usuqd135/TVK.mp4?rlkey=g571r54iaxqr49y0k0tqkxuj5
