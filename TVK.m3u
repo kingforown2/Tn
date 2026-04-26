@@ -39,7 +39,11 @@ https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Suyodhana.mkv
 
 
 
-#EXTM3U url-tvg="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Sambavam_Adhyayam_Onnu/Sambavam%20Adhyayam%20Onnu.xml"
 
-#EXTINF:-1 tvg-id="Sambavam_Adhyayam_Onnu" tvg-name="Sambavam Adhyayam Onnu" tvg-logo="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Sambavam_Adhyayam_Onnu/Sambavam%20Adhyayam%20Onnu.jpeg" group-title="Movies",Sambavam Adhyayam Onnu
+
+
+
+#EXTM3U url-tvg="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Sambavam_Adhyayam_Onnu/Sambavam.xml"
+
+#EXTINF:-1 tvg-id="sambavam_adhyayam_onnu" tvg-name="Sambavam Movies" tvg-logo="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Sambavam_Adhyayam_Onnu/Sambavam%20Adhyayam%20Onnu.jpeg" group-title="Movies",Sambavam Movies
 https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Sambavam_Adhyayam_Onnu/master.m3u8
