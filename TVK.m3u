@@ -46,6 +46,9 @@ https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Suyodhana.mkv
 #EXTINF:-1 tvg-id="parasakthi" tvg-name="Parasakthi" tvg-logo="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Parasakthi/Parasakthi.jpeg" group-title="Tamil + Telugu Movies",Parasakthi
 https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Parasakthi/Parasakthi.m3u8
 
+#EXTINF:-1 tvg-id="thaai_kizhavi" tvg-name="Thaai Kizhavi" tvg-logo="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/ThaaiKizhavi/Thaai%20Kizhavi.jpeg" group-title="Tamil + Telugu Movies",Thaai Kizhavi
+https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/ThaaiKizhavi/output.m3u8
+
 
 
 
