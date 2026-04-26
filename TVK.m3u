@@ -1,5 +1,7 @@
 #EXTM3U
 
+# ===== Tamil Movies =====>>>>>>>>>>>>>>>>
+
 #EXTINF:-1 tvg-name="TVK" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tpinyu6nrgi2et6enesg3/tvk.jpg?rlkey=794zl1v2cyxtk8cavh9bugkmt" group-title="Tamil Movies",TVK
 https://dl.dropboxusercontent.com/scl/fi/vktkwao9sdgi0usuqd135/TVK.mp4?rlkey=g571r54iaxqr49y0k0tqkxuj5
 
@@ -28,7 +30,7 @@ https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/S.Saraswathi.mkv
 https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Sambavam_Adhyayam_Onnu/master.m3u8
 
 
-
+# ===== Telugu Movies =====>>>>>>>>>>>>>>
 
 #EXTINF:-1 tvg-name="Youth" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2arp10y7dyw3k6l1bjl4k/Youth.jpeg?rlkey=pdyjkj5g5vswaqqeb7h64tl9j" group-title="Telugu Movies",Youth
 https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Youth.mkv
@@ -38,6 +40,8 @@ https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Ustaad%20Bhagat%20Singh.mp4
 
 #EXTINF:-1 tvg-name="Suyodhana" tvg-logo="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Suyodhana.jpeg" group-title="Telugu Movies",Suyodhana
 https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Suyodhana.mkv
+
+# ===== Tamil + Telugu Movies =====>>>>>>>>>
 
 
 
