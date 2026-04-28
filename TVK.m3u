@@ -54,12 +54,8 @@ https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/ThaaiKizhavi/output.m3u8
 
 
 
-#EXTM3U
-
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Tamil",DEFAULT=YES,AUTOSELECT=YES,URI="https://d3s0ximcru5bdx.cloudfront.net/VEERAN_23-Full-Mezz_UHD-ta-IN-1740136065952/cmaf/H_264/VEERAN_23-Full-Mezz_UHD-ta-IN/sjfilms-SF_VEERAN_23-Full-Mezz_UHD-ta-INaac_aud_96Kbps.m3u8"
-
-#EXT-X-STREAM-INF:BANDWIDTH=18000000,RESOLUTION=3840x2160,AUDIO="audio"
-https://d3s0ximcru5bdx.cloudfront.net/VEERAN_23-Full-Mezz_UHD-ta-IN-1740136065952/cmaf/H_264/VEERAN_23-Full-Mezz_UHD-ta-IN/sjfilms-SF_VEERAN_23-Full-Mezz_UHD-ta-INcmaf_3840x2160p_25fps_18.0mbps.m3u8
 
 
 
+#EXTINF:-1 tvg-id="veeran" tvg-name="Veeran" tvg-logo="https://example.com/veeran.jpg" group-title="Tamil + Telugu Movies",Veeran (4K)
+https://raw.githubusercontent.com/kingforown2/Tn/main/veeran_master.m3u8
