@@ -49,6 +49,9 @@ https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Suyodhana.mkv
 #EXTINF:-1 tvg-id="lik" tvg-name="LIK" tvg-logo="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/LIK/lik.jpeg" group-title="Tamil + Telugu Movies",LIK
 https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/LIK/LIK.m3u8
 
+#EXTINF:-1 tvg-id="biker" tvg-name="Biker" tvg-logo="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Biker/Biker.jpeg" group-title="Tamil + Telugu Movies",Biker
+https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Biker/Biker.m3u8
+
 #EXTINF:-1 tvg-id="parasakthi" tvg-name="Parasakthi" tvg-logo="https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Parasakthi/Parasakthi.jpeg" group-title="Tamil + Telugu Movies",Parasakthi
 https://pub-66c3cd69445d492bae729c928457e30f.r2.dev/Parasakthi/Parasakthi.m3u8
 
